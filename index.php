@@ -7,7 +7,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Bonjour ! Je m'appelle Mickaël Andrieu</title>
+        <title>Bonjour ! Je m'appelle Celena Daviau</title>
         <meta name="description" content="Mon super CV">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="index.css">
@@ -51,7 +51,7 @@
                 <div class="clearfix"></div>
         </div>
             <div class="name-wrapper">
-                <h1>Andrieu <br/>Mickaël</h1><!-- YOUR NAME AND LAST NAME  -->
+                <h1>Daviau <br/>Celena</h1><!-- YOUR NAME AND LAST NAME  -->
             </div>
             <div class="clearfix"></div>
             <div class="contact-info clearfix">
@@ -62,8 +62,8 @@
                     <li>Home</li>
                 </ul>
                 <ul class="list-content ">
-                    <li>06 07 05 94 59</li> <!-- YOUR PHONE NUMBER  -->
-                    <li>mickael.andrieu@exemple.com</li> <!-- YOUR EMAIL -->
+                    <li>06 67 44 07 98</li> <!-- YOUR PHONE NUMBER  -->
+                    <li>ccelena90@exemple.com</li> <!-- YOUR EMAIL -->
                     <li><a href="http://www.mickael-andrieu.com/">mickael-andrieu.com</a></li> <!-- YOUR WEBSITE  -->
                     <li>Bordeaux, France</li> <!-- YOUR STATE AND COUNTRY  -->
                 </ul>
